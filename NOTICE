@@ -1,0 +1,15 @@
+QNNRev
+Copyright (C) 2026 Chromatic
+SPDX-License-Identifier: AGPL-3.0-or-later
+
+QNNRev is free software: you can redistribute it and/or modify it under the
+GNU Affero General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version.
+It is distributed without warranty. See LICENSE for the complete terms.
+
+Corresponding source and build instructions:
+https://github.com/Has-X/QNNRev/tree/main
+
+QNNRev does not redistribute Qualcomm QAIRT SDK binaries, Hexagon DSP
+toolchains, or third-party model weights. Optional interoperability features
+expect user-supplied QAIRT SDK components under their respective terms.
