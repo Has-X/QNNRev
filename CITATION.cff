@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If QNNRev helps your work, please cite the GitHub repository."
+title: "QNNRev"
+abstract: "Toolkit for inspecting, unpacking, and reconstructing Qualcomm QNN / QAIRT Hexagon HTP context binaries."
+version: 0.2.0
+date-released: 2026-11-22
+authors:
+  - name: Chromatic
+repository-code: https://github.com/Has-X/QNNRev
+license: AGPL-3.0-or-later
